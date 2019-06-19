@@ -2,6 +2,6 @@ package com.github.hcsp.pet1;
 
 public class Cat {
   public static void main(String[] args) {
-    Home home = new Home();
+    System.out.println("Dog class");
   }
 }
