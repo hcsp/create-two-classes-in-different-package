@@ -10,7 +10,7 @@
 -----
 注意！我们只允许你修改以下文件，对其他文件的修改会被拒绝：
 - [src/main/java/com/github/hcsp/pet1/Cat.java](https://github.com/hcsp/create-two-classes-in-different-package/blob/master/src/main/java/com/github/hcsp/pet1/Cat.java)
-- [src/main/java/com/github/hcsp/com.github.hcsp.pet2/Dog.java](https://github.com/hcsp/create-two-classes-in-different-package/blob/master/src/main/java/com/github/hcsp/pet2/Dog.java)
+- [src/main/java/com/github/hcsp/pet2/Dog.java](https://github.com/hcsp/create-two-classes-in-different-package/blob/master/src/main/java/com/github/hcsp/pet2/Dog.java)
 -----
 
 
