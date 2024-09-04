@@ -1,6 +1,7 @@
 package com.github.hcsp;
 
-import com.github.hcsp.pet2.Cat;
+import com.github.hcsp.pet1.Cat;
+
 import org.junit.jupiter.api.Test;
 
 public class HomeTest {
@@ -8,6 +9,6 @@ public class HomeTest {
     public void homeHasCatAndDog() {
         Home home = new Home();
         home.cat1 = new Cat();
-        home.cat2 = new Cat();
+        home.cat2 = new com.github.hcsp.pet2.Cat();
     }
 }
